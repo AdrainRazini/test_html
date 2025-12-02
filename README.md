@@ -12,6 +12,12 @@
 
 
 Sempre explorando novas tecnologias e desafios! 🚀
-![](https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif)
+<img 
+  src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" 
+  alt="gif" 
+  width="220" 
+  style="border-radius: 20px;"
+/>
+
 
 ![Snake animation](https://raw.githubusercontent.com/AdrainRazini/AdrainRazini/refs/heads/main/github-user-contribution.svg)
