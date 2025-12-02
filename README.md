@@ -10,14 +10,8 @@
 <a href="https://www.linkedin.com/in/adrian-razini-rangel" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-
 Sempre explorando novas tecnologias e desafios! 🚀
-<img 
-  src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" 
-  alt="gif" 
-  width="400" 
-  style="border-radius: 20px;"
-/>
+![](https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif)
 
 
 ![Snake animation](https://raw.githubusercontent.com/AdrainRazini/AdrainRazini/refs/heads/main/github-user-contribution.svg)
