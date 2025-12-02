@@ -1,5 +1,3 @@
 ## 🌐 Meu Site
 
-[Acesse meu portfólio aqui](https://adrian-liard.vercel.app/)
-
-<p>Confira meu site: <a href="https://adrian-liard.vercel.app/">Meu Portfólio</a></p>
+[![Preview do site](https://image.thum.io/get/width/600/https://adrian-liard.vercel.app)](https://adrian-liard.vercel.app)
