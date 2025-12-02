@@ -6,7 +6,7 @@ Este README reúne vários tipos de iframes modernos, responsivos e seguros, pro
 
 ## 1) Iframe Responsivo com `aspect-ratio`
 
-```html
+
 <div style="width:100%; max-width:1200px; margin:0 auto;">
   <div style="aspect-ratio:16/9; width:100%; position:relative; overflow:hidden; border-radius:8px;">
     <iframe
@@ -19,7 +19,7 @@ Este README reúne vários tipos de iframes modernos, responsivos e seguros, pro
     </iframe>
   </div>
 </div>
-```
+
 
 ---
 
